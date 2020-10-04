@@ -1,7 +1,7 @@
 # Sorting-Algorithms-Visualized
 Sorting algorithms visualized using a picture.
 
-# Click this link to view the project live:
+**Click this link to view the project live:**
 <a href="https://9nine-tails.github.io/Sorting-Algorithms-Visualized/">It's Live</a>
 
 Picture credits :
