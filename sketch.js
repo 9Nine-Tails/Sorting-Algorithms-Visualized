@@ -21,13 +21,13 @@ function setup() {
 	}
 	shuffle(strips, true);
 	sel = createSelect();
-	sel.position(w+100,100);
+	sel.position(w+20,100);
 	sel.option('Bubble');
 	sel.option('Selection');
 	sel.option('Insertion');
 	sel.changed(reshuffle);
 	btn = createButton('Restart');
-	btn.position(w+100,150);
+	btn.position(w+20,150);
 	btn.mousePressed(reshuffle);
 }
 
